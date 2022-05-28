@@ -5,7 +5,7 @@
         <item>Жест</item>
     </string-array>
     <string-array name="accessibility_button_location_selector_titles">
-        <item>Плаває поверх інших додатків</item>
+        <item>Спливає поверх інших додатків</item>
         <item>Панель навігації</item>
     </string-array>
     <string-array name="accessibility_button_size_selector_titles">
