@@ -926,7 +926,7 @@
         <item quantity="other">Вибрати сигнали лише на %1$d години до %2$s</item>
         <item quantity="one">Вибрати сигнали лише на %1$d годину до %2$s</item>
         <item quantity="few">Вибрати сигнали лише на %1$d години до %2$s</item>
-        <item quantity="many">Вибрати сигнали лише на %1$d годин до %2$s</item>
+        <item quantity="many">Вибрати сигнали лише на %1$d години до %2$s</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_minute">
         <item quantity="other">Вибрати сигнали лише на %1$d хвилини до %2$s</item>
