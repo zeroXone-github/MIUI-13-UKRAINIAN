@@ -320,7 +320,7 @@
     </plurals>
     <plurals name="video_publish_watchable_hint">
         <item quantity="other">Для оновлення статусу необхідно більше %1$d підписників</item>
-        <item quantity="one">Для оновлення статусу необхідно більше %1$d підписника</item>
+        <item quantity="one">Для оновлення статусу необхідно більше %1$d підписник</item>
         <item quantity="few">Для оновлення статусу необхідно більше %1$d підписника</item>
         <item quantity="many">Для оновлення статусу необхідно більше %1$d підписників</item>
     </plurals>
