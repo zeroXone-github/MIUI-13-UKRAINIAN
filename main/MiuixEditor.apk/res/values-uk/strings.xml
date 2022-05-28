@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Добавити часті фрази</string>
+    <string name="call">Виклик</string>
+    <string name="edit_frequent_phrases">Редагувати часті фрази</string>
+    <string name="floating_toolbar_close_overflow_description">Закрити додат. меню</string>
+    <string name="floating_toolbar_open_overflow_description">Ще</string>
+    <string name="frequent_phrases">Часті фрази</string>
+    <string name="google_call">Виклик</string>
+    <string name="google_email">Email</string>
+    <string name="google_map">Мапа</string>
+    <string name="google_open">Переглянути</string>
+    <string name="google_translate">Перекласти</string>
+    <string name="open">Переглянути</string>
+    <string name="query">Запит</string>
+    <string name="select">Вибрати</string>
+    <string name="translate">Перекласти</string>
+    <string name="translation_more">Ще</string>
+    <string name="translation_query_error">Нічого не знайдено</string>
+    <string name="translation_query_error_network">Не вдалося получити інформацію. Перевірте підключення до мережі і повторіть спробу.</string>
+</resources>
