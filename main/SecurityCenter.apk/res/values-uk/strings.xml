@@ -1581,7 +1581,7 @@
     <string name="gb_advance_settings_edge_gear3">Середня</string>
     <string name="gb_advance_settings_edge_gear4">Велика</string>
     <string name="gb_advance_settings_edge_suppression">Нечутлива область</string>
-    <string name="gb_advance_settings_edge_suppression_summary">Зменшувати чутливість біля країв екрана, щоб уникнути спрацьовування елементів управління. Тримайте пристрій за виділені області, щоб не закривати динаміки.</string>
+    <string name="gb_advance_settings_edge_suppression_summary">Зменшіть чутливість біля країв екрана, щоб уникнути спрацьовування елементів управління. Тримайте пристрій за виділені області, щоб не закривати динаміки.</string>
     <string name="gb_advance_settings_finger_up">Відгук на непреривне натиснення</string>
     <string name="gb_advance_settings_follow_up">Чутливість до жестів</string>
     <string name="gb_advance_settings_reset">Відновити налаштування за замовчуванням</string>
