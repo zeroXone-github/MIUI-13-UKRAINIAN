@@ -2650,5 +2650,5 @@ SIM-картка буде заблокована при наступній не�
     <string name="zen_mode_forever">Доки не вимкнути</string>
     <string name="zen_mode_settings_summary_off">Ніколи</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Увімкнути режим \"Не турбувати\"</string>
-	<string name="preference_countrycode_title">Код країни</string>
+    <string name="preference_countrycode_title">Код країни</string>
 </resources>
