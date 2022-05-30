@@ -971,5 +971,5 @@
     <string name="work_profile_title">Робочий профіль</string>
     <string name="work_profile_toggle_label">Робочий профіль</string>
     <string name="yesterday">Вчора</string>
-	<string name="animation_rate_title">Швидкість анімації</string>
+    <string name="animation_rate_title">Швидкість анімації</string>
 </resources>
