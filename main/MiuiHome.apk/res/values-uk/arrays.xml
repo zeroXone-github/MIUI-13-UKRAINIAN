@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Ґ</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Є</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>І</item>
+        <item>Ї</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ь</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Ґ</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Є</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>І</item>
+        <item>Ї</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ь</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Шпалери</item>
+        <item>Віджети</item>
+        <item>Налаштування</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Ясно</item>
+        <item>Хмарно</item>
+        <item>Хмарно</item>
+        <item>Туман</item>
+        <item>Сильний дощ</item>
+        <item>Злива</item>
+        <item>Злива з ураганом</item>
+        <item>Місцями грози</item>
+        <item>Короткочасний дощ</item>
+        <item>Сильний дощ</item>
+        <item>Дощ</item>
+        <item>Мряка</item>
+        <item>Мокрий сніг</item>
+        <item>Заметіль</item>
+        <item>Снігопад</item>
+        <item>Сильний снігопад</item>
+        <item>Снігопад</item>
+        <item>Невеликий сніг</item>
+        <item>Сильна піщана буря</item>
+        <item>Піщана буря</item>
+        <item>Пил</item>
+        <item>Піщана буря</item>
+        <item>Град</item>
+        <item>Бруд</item>
+        <item>Імла</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>За замовчуванням</item>
+        <item>Класичний</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Слайд</item>
+        <item>Накладення</item>
+        <item>Мельниця</item>
+        <item>Книга</item>
+        <item>Каскад</item>
+        <item>Обертання</item>
+        <item>3D-куб</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Увімкнена</item>
+        <item>Вимкнена (шпалери по центру)</item>
+        <item>Вимкнена (шпалери ліворуч)</item>
+        <item>Вимкнена (шпалери праворуч)</item>
+    </string-array>
+	<string-array name="animation_rate_entries">
+        <item>Елегантна</item>
+        <item>Баланс</item>
+        <item>Мінімалістична</item>
+    </string-array>
+</resources>
