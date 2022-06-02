@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_mobile_hotspot_provision_app_no_ui" />
+    <string name="config_mobile_hotspot_provision_response" />
+    <string name="disable_tether_notification_message">Зверніться до адміністратора за подробицями</string>
+    <string name="disable_tether_notification_title">Модем вимкнено</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">Статус точки доступу та модему</string>
+    <string name="tethered_notification_message">Натисніть, щоб настроїти</string>
+    <string name="tethered_notification_title">Модем або точка доступу активні</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>
