@@ -24,7 +24,7 @@
     <string name="wifi_disable_mac_randomization_dialog_failure">"Не можна змінити параметр конфіденційності"</string>
     <string name="wifi_disable_mac_randomization_dialog_message">"Для підключення, %1$s необхідно використовувати MAC-адресу, унікальний ідентифікатор. В даний час ваш параметр конфіденційності для цієї мережі використовує рандомізований ідентифікатор. 
 
-Ця зміна може дозволити відстежувати місцезнаходження вашого пристрою поблизу пристроїв."</string>
+Ця зміна може дозволити відстежувати місцезнаходження вашого пристрою поблизу інших пристроїв."</string>
     <string name="wifi_disable_mac_randomization_dialog_network_not_found">Мережу не знайдено</string>
     <string name="wifi_disable_mac_randomization_dialog_success">Налаштування оновлено. Спробуйте підключитися ще раз.</string>
     <string name="wifi_disable_mac_randomization_dialog_title">Змінити налаштування конфіденційності?</string>
