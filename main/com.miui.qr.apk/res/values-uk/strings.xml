@@ -36,7 +36,7 @@
     <string name="qualitative_title">Інформація про стійкість</string>
     <string name="ration_title">Інформація класу ID</string>
     <string name="search_menu_title">Пошук</string>
-	<string name="app_name">Cit_QR</string>
+    <string name="app_name">Cit_QR</string>
 
 
   <string name="fmt_date_long_month">MMMM</string>
