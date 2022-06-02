@@ -26,7 +26,7 @@
     <string name="noti_key2_used">Використано: %1$s</string>
     <string name="noti_key3">Подробиці &gt;</string>
     <string name="search_menu_title">Пошук</string>
-	<string name="gb">" ГБ"</string>
+    <string name="gb">" ГБ"</string>
     <string name="kb">" КБ"</string>
     <string name="mb">" МБ"</string>
 
