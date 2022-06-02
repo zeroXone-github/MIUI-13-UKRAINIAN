@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_networkCaptivePortalServerUrl" />
+    <string name="connectivityResourcesAppLabel">Ресурси системних підключень</string>
+    <string name="mobile_no_internet">Мобільна мережа без доступу до інтернету</string>
+    <string name="network_available_sign_in">Реєстрація в мережі</string>
+    <string name="network_partial_connectivity">Підключення до мережі %1$s обмежено</string>
+    <string name="network_partial_connectivity_detailed">Натисніть, щоб підключитися</string>
+    <string name="network_switch_metered">Нове підключення: %1$s</string>
+    <string name="network_switch_metered_detail">Пристрій використовує %1$s, якщо підключення до мережі %2$s недоступно. Може стягуватися плата за передачу даних.</string>
+    <string name="network_switch_metered_toast">Пристрій відключено від мережі %2$s і тепер використовує %1$s</string>
+    <string name="network_switch_type_name_unknown">невідомий тип мережі</string>
+    <string name="other_networks_no_internet">Мережа без доступу до інтернету</string>
+    <string name="private_dns_broken_detailed">Приватний сервер DNS недоступний</string>
+    <string name="wifi_available_sign_in">Підключення до Wi-Fi</string>
+    <string name="wifi_no_internet">Без доступу до інтернету</string>
+    <string name="wifi_no_internet_detailed">Натисніть, щоб показати варіанти.</string>
+</resources>
