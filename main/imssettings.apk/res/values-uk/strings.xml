@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_reject_toggle_summary">Автоматично відхиляти вхідні дзвінки на незайнятій SIM-картці, коли встановлено пріоритет передачі даних по DDS</string>
+    <string name="auto_reject_toggle_title">Автоматичне відхилення вхідних дзвінків</string>
+    <string name="call_composer_toggle_summary">Дозволити об'єднання викликів</string>
+    <string name="call_composer_toggle_title">Об'єднання викликів</string>
+    <string name="ims_ar_mode_allow_alerting">Повідомити про вхідний виклик</string>
+    <string name="ims_ar_mode_allow_incoming">Дозволити вхідний виклик</string>
+    <string name="ims_ar_mode_auto_reject">Автоматично відхилити вхідний виклик</string>
+    <string name="ims_ar_mode_summary">Повідомляти або відхиляти вхідні дзвінки на іншій SIM-карті за наявності високопріоритетної передачі даних на поточній SIM-картці</string>
+    <string name="ims_ar_mode_title">Режими відповіді</string>
+    <string name="ims_ar_mode_unknown">Невідомо</string>
+    <string name="ims_rtt_automatic_mode">Авто</string>
+    <string name="ims_rtt_unknown_mode">Невідомо</string>
+    <string name="ims_rtt_upon_request_mode">По запиту</string>
+    <string name="ims_settings">Налаштування IMS</string>
+    <string name="ims_to_cs_retry">ImsToCsRetry</string>
+    <string name="ims_to_cs_retry_summary">Автоповтор зі звичайним голосовим зв'язком (рекомендується)</string>
+    <string name="ims_to_cs_retry_title">Повторення комутації каналів</string>
+    <string name="ims_vt_call_quality_high">Високе</string>
+    <string name="ims_vt_call_quality_low">Низьке</string>
+    <string name="ims_vt_call_quality_medium">Середнє</string>
+    <string name="ims_vt_call_quality_set_failed">Не встановлено</string>
+    <string name="ims_vt_call_quality_title">Якість відео-дзвінків</string>
+    <string name="ims_vt_call_quality_unknown">Невідоме</string>
+    <string name="ims_vt_call_static_image_error">Формат зображення, не підтримується. Будь ласка, виберіть інше зображення</string>
+    <string name="ims_vt_call_static_image_ignore">Під час розмови неможливо змінити статичне зображення</string>
+    <string name="ims_vt_call_static_image_okay">Зображення вибрано</string>
+    <string name="ims_vt_call_static_image_text">Виберіть статичне зображення</string>
+    <string name="qti_ims_call_deflect">calldeflect</string>
+    <string name="qti_ims_call_deflect_title">Номер перенаправлення виклику</string>
+    <string name="qti_ims_number_not_set">Не заданий</string>
+    <string name="rtt_call_type_toggle_summary">Увімкнення використання голосового набору за замовчуванням</string>
+    <string name="rtt_call_type_toggle_title">Голосовий набір</string>
+    <string name="rtt_operation_mode_summary">Налаштування режиму роботи RTT</string>
+    <string name="rtt_operation_mode_title">Режим роботи RTT</string>
+    <string name="rtt_toggle_summary">Режим RTT</string>
+    <string name="rtt_toggle_title">RTT</string>
+    <string name="rtt_visibility_toggle_summary">Налаштування видимості RTT</string>
+    <string name="rtt_visibility_toggle_title">Видимість RTT</string>
+</resources>
