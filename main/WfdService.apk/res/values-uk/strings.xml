@@ -4,8 +4,8 @@
     <string name="channel_name">WFD Сервіс</string>
     <string name="notif_text">Трансляцію екрану увімкнено</string>
     <string name="notif_title">Бездротовий екран</string>
-	<string name="notification_text">Зеркальний екран увімкнений</string>
-	<string name="notification_title">Бездротовий дисплей</string>
+    <string name="notification_text">Зеркальний екран увімкнений</string>
+    <string name="notification_title">Бездротовий дисплей</string>
     <string name="perm_desc">Доступ до Qualcomm Wi-Fi Display Stack APIs</string>
     <string name="perm_label">QC Wi-Fi Display Stack</string>
 
