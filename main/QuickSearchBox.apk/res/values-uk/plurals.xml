@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Годину тому</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Годину тому</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Півгодини тому</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Через годину</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Через півгодини</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Зараз</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Через %d хв.</item>
+        <item quantity="one">Через 1 хв.</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Тільки що</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d хв. тому</item>
+        <item quantity="one">1 хв. тому</item>
+    </plurals>
+    <plurals name="favor_delete_message">
+        <item quantity="other">Видалити %d вибраних об'єктів?</item>
+        <item quantity="one">Видалити %d вибраний об'єкт?</item>
+        <item quantity="few">Видалити %d вибраних об'єктів?</item>
+    </plurals>
+    <plurals name="favor_delete_succeed">
+        <item quantity="other">Видалено %d об'єктів</item>
+        <item quantity="one">Видалено %d об'єкт</item>
+        <item quantity="few">Видалено %d об'єктів</item>
+    </plurals>
+    <plurals name="favor_select_num">
+        <item quantity="other">Вибрано %d об'єктів</item>
+        <item quantity="one">Вибрано %d об'єкт</item>
+        <item quantity="few">Вибрано %d об'єктів</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Півгодини тому</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Через годину</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Через півгодини</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Зараз</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">через %d хвилин</item>
+        <item quantity="one">через 1 хвилину</item>
+        <item quantity="few">через %d хвилин</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Тільки що</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d хвилин тому</item>
+        <item quantity="one">1 хвилину тому</item>
+        <item quantity="few">%d хвилин тому</item>
+    </plurals>
+    <plurals name="switch_prompt_content">
+        <item quantity="other">Ви не надали дозвіл для пошуку %d об'єктів</item>
+        <item quantity="one">Ви не надали дозвіл для пошуку %d об'єкта</item>
+    </plurals>
+</resources>
