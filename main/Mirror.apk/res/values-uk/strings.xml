@@ -448,5 +448,4 @@
     <string name="worker_try_join_pc_when_pad_adv_connected">Цей пристрій зараз підключено до іншого пристрою. Повторіть спробу пізніше.</string> 
     <string name="worker_try_join_pc_when_pad_adv_connected_title">Не вдалося підключитися до MIUI+</string> 
     <string name="yesterday">Вчора</string> 
-</resources> 
-
+</resources>
