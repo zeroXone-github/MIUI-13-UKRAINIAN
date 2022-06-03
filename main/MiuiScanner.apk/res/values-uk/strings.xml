@@ -680,16 +680,16 @@
     <string name="you_have_permission_to_download">Натисніть для завантаження бета-версії</string>
     <string name="you_id">"Ваш ID: "</string>
     <string name="your_application_is_under_review">" (Ваша заявка розглядається.)"</string>
-	<string name="permission_management">Дозволи</string>
-	<string name="user_agreement">Угода користувача</string>
-	<string name="privacy_policy_withdrawal_message"><Data>"Якщо ви продовжите, згода з Політикою конфіденційності буде відкликана. Це буде розглядатися як відмова від послуг сканера. Вам доведеться прийняти &lt;a href=\"%1$s\">Політику конфіденційності&lt;/a> ще раз, якщо ви знову вирішите використати Сканер. Відкликати згоду зараз?"</Data></string>
-	<string name="user_notification">Відкликання згоди</string>
-	<string name="logout_service">Відкликання згоди</string>
-	<string name="privacy_policy_update">Оновлена Політика конфіденційності</string>
+    <string name="permission_management">Дозволи</string>
+    <string name="user_agreement">Угода користувача</string>
+    <string name="privacy_policy_withdrawal_message"><Data>"Якщо ви продовжите, згода з Політикою конфіденційності буде відкликана. Це буде розглядатися як відмова від послуг сканера. Вам доведеться прийняти &lt;a href=\"%1$s\">Політику конфіденційності&lt;/a> ще раз, якщо ви знову вирішите використати Сканер. Відкликати згоду зараз?"</Data></string>
+    <string name="user_notification">Відкликання згоди</string>
+    <string name="logout_service">Відкликання згоди</string>
+    <string name="privacy_policy_update">Оновлена Політика конфіденційності</string>
     <string name="privacy_policy_update_message"><Data>Ви не зможете використовувати Сканер, якщо не приймете оновлену &lt;a href=\"%1$s\">Політику конфіденційності&lt;/a>. Приймаєте?</Data></string>
     <string name="privacy_policy_update_welcome">Оновлена Політика конфіденційності:</string>
     <string name="privacy_policy_withdrawal_error">Не вдалося відкликати згоду. Спробуйте пізніше.</string>
-	<string name="version_code">"Версія: "</string>
+    <string name="version_code">"Версія: "</string>
 
 
   <string name="fmt_date_long_month">MMMM</string>
