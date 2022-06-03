@@ -421,5 +421,4 @@
     <string name="what_device_uwb_supported_detail">"Ви можете направити телефон Xiaomi з чіпом UWB на смарт-пристрої для керування ними. Які пристрої підтримують Xiaomi Magic Control? 1. Телевізори Xiaomi з технологією UWB, такі як Xiaomi TV Master 77" OLED. 2. Телевізори Xiaomi з тегом Xiaomi Magic Control, %s."</string> 
     <string name="what_device_uwb_supported_detail_placeholder">Деталі</string> 
     <string name="yesterday">Вчора</string> 
-</resources> 
-
+</resources>
