@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Годину тому</item>
+        <item quantity="one">Годину тому</item>
+        <item quantity="few">Годину тому</item>
+        <item quantity="many">Годину тому</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Годину тому</item>
+        <item quantity="one">Годину тому</item>
+        <item quantity="few">Годину тому</item>
+        <item quantity="many">Годину тому</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Півгодини тому</item>
+        <item quantity="one">Півгодини тому</item>
+        <item quantity="few">Півгодини тому</item>
+        <item quantity="many">Півгодини тому</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Через годину</item>
+        <item quantity="one">Через годину</item>
+        <item quantity="few">Через годину</item>
+        <item quantity="many">Через годину</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Через півгодини</item>
+        <item quantity="one">Через півгодини</item>
+        <item quantity="few">Через півгодини</item>
+        <item quantity="many">Через півгодини</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Негайно</item>
+        <item quantity="one">Негайно</item>
+        <item quantity="few">Негайно</item>
+        <item quantity="many">Негайно</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">через %d хв</item>
+        <item quantity="one">через 1 хв</item>
+        <item quantity="few">через %d хв</item>
+        <item quantity="many">через %d хв</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Тільки що</item>
+        <item quantity="one">Тільки що</item>
+        <item quantity="few">Тільки що</item>
+        <item quantity="many">Тільки що</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d хв тому</item>
+        <item quantity="one">1 хв тому</item>
+        <item quantity="few">%d хв тому</item>
+        <item quantity="many">%d хв тому</item>
+    </plurals>
+    <plurals name="adblock_notification">
+        <item quantity="other">Заблоковано %d реклам</item>
+        <item quantity="one">Заблоковано %d рекламу</item>
+        <item quantity="few">Заблоковано %d реклами</item>
+        <item quantity="many">Заблоковано %d реклам</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d елементів заблоковано</item>
+        <item quantity="one">%d елемент заблоковано</item>
+        <item quantity="few">%d елементи заблоковано</item>
+        <item quantity="many">%d items blocked</item>
+    </plurals>
+    <plurals name="adblock_total_counts">
+        <item quantity="other">Заблоковано реклами: %d</item>
+        <item quantity="one">Заблоковано реклами: %d</item>
+        <item quantity="few">Заблоковано реклами: %d</item>
+        <item quantity="many">Заблоковано реклами: %d</item>
+    </plurals>
+    <plurals name="articles_updated_amount">
+        <item quantity="other">Перегляньте %1$d нових статтей</item>
+        <item quantity="one">Перегляньте %1$d нову статтю</item>
+        <item quantity="few">Перегляньте %1$d нових статті</item>
+        <item quantity="many">Перегляньте %1$d нових статтей</item>
+    </plurals>
+    <plurals name="auto_play_next_tips">
+        <item quantity="other">Відтворення наступного відео через %d сек</item>
+        <item quantity="one">Відтворення наступного відео через %d сек</item>
+        <item quantity="few">Відтворення наступного відео через %d сек</item>
+        <item quantity="many">Відтворення наступного відео через %d сек</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d днів тому</item>
+        <item quantity="one">%1$d день тому</item>
+        <item quantity="few">%1$d дні тому</item>
+        <item quantity="many">%1$d днів тому</item>
+    </plurals>
+    <plurals name="download_business_v5_edit_mode_title">
+        <item quantity="other">Вибрано %1$d</item>
+        <item quantity="one">Вибрано %1$d</item>
+        <item quantity="few">Вибрано %1$d</item>
+        <item quantity="many">Вибрано %1$d</item>
+    </plurals>
+    <plurals name="download_dialog_confirm_delete_downloads_message">
+        <item quantity="other">Видалити %d завдань?</item>
+        <item quantity="one">Видалити %d завдання?</item>
+        <item quantity="few">Видалити %d завдання?</item>
+        <item quantity="many">Видалити %d завдань?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Перемотати вперед на %d секунди</item>
+        <item quantity="one">Перемотати вперед на %d секунду</item>
+        <item quantity="few">Перемотати вперед на %d секунди</item>
+        <item quantity="many">Перемотати вперед на %d секунд</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Перемотати назад на %d секунди</item>
+        <item quantity="one">Перемотати назад на %d секунду</item>
+        <item quantity="few">Перемотати назад на %d секунди</item>
+        <item quantity="many">Перемотати назад на %d секунд</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">"%1$d об'єктів"</item>
+        <item quantity="one">"%1$d об'єкт"</item>
+        <item quantity="few">"%1$d об'єкта"</item>
+        <item quantity="many">"%1$d об'єктів"</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">Збігів: %d</item>
+        <item quantity="one">Збігів: %d</item>
+        <item quantity="few">Збігів: %d</item>
+        <item quantity="many">%d matches</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">Знайдено нових файлів: %1$d</item>
+        <item quantity="one">Знайдено нових файлів: %1$d</item>
+        <item quantity="few">Знайдено нових файлів: %1$d</item>
+        <item quantity="many">Знайдено нових файлів: %1$d</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Півгодини тому</item>
+        <item quantity="one">Півгодини тому</item>
+        <item quantity="few">Півгодини тому</item>
+        <item quantity="many">Півгодини тому</item>
+    </plurals>
+    <plurals name="hashtag_followers">
+        <item quantity="other">%d підписників</item>
+        <item quantity="one">%d підписник</item>
+        <item quantity="few">%d підписника</item>
+        <item quantity="many">%d підписників</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d год тому</item>
+        <item quantity="one">%1$d год тому</item>
+        <item quantity="few">%1$d год тому</item>
+        <item quantity="many">%1$d год тому</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Через годину</item>
+        <item quantity="one">Через годину</item>
+        <item quantity="few">Через годину</item>
+        <item quantity="many">Через годину</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Через півгодини</item>
+        <item quantity="one">Через півгодини</item>
+        <item quantity="few">Через півгодини</item>
+        <item quantity="many">Через півгодини</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Негайно</item>
+        <item quantity="one">Негайно</item>
+        <item quantity="few">Негайно</item>
+        <item quantity="many">Негайно</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">через %d хв</item>
+        <item quantity="one">через 1 хв</item>
+        <item quantity="few">через %d хв</item>
+        <item quantity="many">через %d хв</item>
+    </plurals>
+    <plurals name="intercept_panel_img_text">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+        <item quantity="few">%d</item>
+        <item quantity="many">%d</item>
+    </plurals>
+    <plurals name="intercept_panel_protection_total">
+        <item quantity="other">Захищено %d разів</item>
+        <item quantity="one">Захищено %d раз</item>
+        <item quantity="few">Захищено %d рази</item>
+        <item quantity="many">Захищено %d разів</item>
+    </plurals>
+    <plurals name="le_notification_download_completed">
+        <item quantity="other">"Успішно завантажено об'єктів: %d"</item>
+        <item quantity="one">"Успішно завантажено об'єктів: %d"</item>
+        <item quantity="few">"Успішно завантажено об'єктів: %d"</item>
+        <item quantity="many">"Успішно завантажено об'єктів: %d"</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Тільки що</item>
+        <item quantity="one">Тільки що</item>
+        <item quantity="few">Тільки що</item>
+        <item quantity="many">Тільки що</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d хв тому</item>
+        <item quantity="one">%1$d хв тому</item>
+        <item quantity="few">%1$d хв тому</item>
+        <item quantity="many">%1$d хв тому</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Обрано: %d</item>
+        <item quantity="one">Обрано: %d</item>
+        <item quantity="few">Обрано: %d</item>
+        <item quantity="many">Обрано: %d</item>
+    </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="other">Останні %d днів</item>
+        <item quantity="one">Останній %d день</item>
+        <item quantity="few">Останні %d дні</item>
+        <item quantity="many">Останні %d днів</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%1$d з %2$d</item>
+        <item quantity="one">Збігів: %d</item>
+        <item quantity="few">%1$d з %2$d</item>
+        <item quantity="many">%1$d з %2$d</item>
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">Через %d сек буде автоматично створена нова сторінка</item>
+        <item quantity="one">Через %d сек буде автоматично створена нова сторінка</item>
+        <item quantity="few">Через %d сек буде автоматично створена нова сторінка</item>
+        <item quantity="many">Через %d сек буде автоматично створена нова сторінка</item>
+    </plurals>
+    <plurals name="nf_item_like">
+        <item quantity="other">%s лайків</item>
+        <item quantity="one">%s лайк</item>
+        <item quantity="few">%s лайка</item>
+        <item quantity="many">%s лайків</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">"Вибрано об'єктів: %1$d"</item>
+        <item quantity="one">"Вибрано об'єктів: %1$d"</item>
+        <item quantity="few">"Вибрано об'єктів: %1$d"</item>
+        <item quantity="many">"Вибрано об'єктів: %1$d"</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d хв тому</item>
+        <item quantity="one">1 хв тому</item>
+        <item quantity="few">%d хв тому</item>
+        <item quantity="many">%d хв тому</item>
+    </plurals>
+    <plurals name="players">
+        <item quantity="other">%d гравців</item>
+        <item quantity="one">%d гравець</item>
+        <item quantity="few">%d гравця</item>
+        <item quantity="many">%d гравців</item>
+    </plurals>
+    <plurals name="pref_adblock_counts">
+        <item quantity="other">Заблоковано %d реклам</item>
+        <item quantity="one">Заблоковано %d рекламу</item>
+        <item quantity="few">Заблоковано %d реклами</item>
+        <item quantity="many">Заблоковано %d реклам</item>
+    </plurals>
+    <plurals name="search_trending_views">
+        <item quantity="other">%s пошукових записів</item>
+        <item quantity="one">%s пошуковий запис</item>
+        <item quantity="few">%s пошукових записи</item>
+        <item quantity="many">%s пошукових записів</item>
+    </plurals>
+    <plurals name="sku_price">
+        <item quantity="other">%2$s кожні %1$s місяці</item>
+        <item quantity="one">%2$s кожний %1$s місяць</item>
+        <item quantity="few">%2$s кожні %1$s місяця</item>
+        <item quantity="many">%2$s кожні %1$s місяці</item>
+    </plurals>
+    <plurals name="suggest_access_item_album_songs">
+        <item quantity="other">Пісень: %d</item>
+        <item quantity="one">Пісень: %d</item>
+        <item quantity="few">Пісень: %d</item>
+        <item quantity="many">Пісень: %d</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">Альбомів: %d</item>
+        <item quantity="one">Альбомів: %d</item>
+        <item quantity="few">Альбомів: %d</item>
+        <item quantity="many">Альбомів: %d</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_pop">
+        <item quantity="other">Популярних пісень: %d</item>
+        <item quantity="one">Популярних пісень: %d</item>
+        <item quantity="few">Популярних пісень: %d</item>
+        <item quantity="many">Популярних пісень: %d</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">"Вибрано %1$d об'єктів"</item>
+        <item quantity="one">"Вибрано %1$d об'єкт"</item>
+        <item quantity="few">"Вибрано %1$d об'єкта"</item>
+        <item quantity="many">"Вибрано %1$d об'єктів"</item>
+    </plurals>
+    <plurals name="video_collection_reminder_view">
+        <item quantity="other">Ви не переглядали %d обраних відео протягом тирвалого періоду часу.</item>
+        <item quantity="one">Ви не переглядали %d обране відео протягом тирвалого періоду часу.</item>
+        <item quantity="few">Ви не переглядали %d обраних відео протягом тирвалого періоду часу.</item>
+        <item quantity="many">Ви не переглядали %d обраних відео протягом тирвалого періоду часу.</item>
+    </plurals>
+    <plurals name="video_views">
+        <item quantity="other">%s переглядів</item>
+        <item quantity="one">%s перегляд</item>
+        <item quantity="few">%s перегляда</item>
+        <item quantity="many">%s переглядів</item>
+    </plurals>
+    <plurals name="videos_updated_amount">
+        <item quantity="other">Перегляньте %1$d нових відео</item>
+        <item quantity="one">Перегляньте %1$d нове відео</item>
+        <item quantity="few">Перегляньте %1$d нових відео</item>
+        <item quantity="many">Перегляньте %1$d нових відео</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d переглядів</item>
+        <item quantity="one">%1$d перегляд</item>
+        <item quantity="few">%1$d перегляда</item>
+        <item quantity="many">%1$d переглядів</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%dk views</item>
+        <item quantity="one">%dk view</item>
+        <item quantity="few">%dk views</item>
+        <item quantity="many">%dk views</item>
+    </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="other">%d користувачів проголосували</item>
+        <item quantity="one">%d користувач проголосував</item>
+        <item quantity="few">%d користувача проголосували</item>
+        <item quantity="many">%d користувачів проголосували</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_ad">
+        <item quantity="other">Заблоковано %d реклам</item>
+        <item quantity="one">Заблоковано %d рекламу</item>
+        <item quantity="few">Заблоковано %d реклами</item>
+        <item quantity="many">Заблоковано %d реклам</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_allow_times">
+        <item quantity="other">Дозволено %d разів</item>
+        <item quantity="one">Дозволено %d раз</item>
+        <item quantity="few">Дозволено %d рази</item>
+        <item quantity="many">Дозволено %d разів</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_disallow_times">
+        <item quantity="other">Заборонено %d разів</item>
+        <item quantity="one">Заборонено %d раз</item>
+        <item quantity="few">Заборонено %d рази</item>
+        <item quantity="many">Заборонено %d разів</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_privacy">
+        <item quantity="other">Зупинено %d разів</item>
+        <item quantity="one">Зупинено %d раз</item>
+        <item quantity="few">Зупинено %d рази</item>
+        <item quantity="many">Зупинено %d разів</item>
+    </plurals>
+    <plurals name="web_permission_ad_subtitle">
+        <item quantity="other">Заблоковано %s реклам</item>
+        <item quantity="one">Заблокована %s реклама</item>
+        <item quantity="few">Заблоковано %s реклами</item>
+        <item quantity="many">Заблоковано %s реклам</item>
+    </plurals>
+    <plurals name="web_permission_allow_default_subtitle">
+        <item quantity="other">Дозволено %s разів</item>
+        <item quantity="one">Дозволено %s раз</item>
+        <item quantity="few">Дозволено %s рази</item>
+        <item quantity="many">Дозволено %s разів</item>
+    </plurals>
+    <plurals name="web_permission_deny_default_subtitle">
+        <item quantity="other">Заборонено %s разів</item>
+        <item quantity="one">Заборонено %s раз</item>
+        <item quantity="few">Заборонено %s рази</item>
+        <item quantity="many">Заборонено %s разів</item>
+    </plurals>
+    <plurals name="web_permission_privacy_subtitle">
+        <item quantity="other">Зупинено %s разів</item>
+        <item quantity="one">Зупинено %s раз</item>
+        <item quantity="few">Зупинено %s рази</item>
+        <item quantity="many">Зупинено %s разів</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_day">
+        <item quantity="other">%s днів</item>
+        <item quantity="one">%s день</item>
+        <item quantity="few">%s дні</item>
+        <item quantity="many">%s днів</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_time">
+        <item quantity="other">%s разів</item>
+        <item quantity="one">%s раз</item>
+        <item quantity="few">%s рази</item>
+        <item quantity="many">%s разів</item>
+    </plurals>
+</resources>
