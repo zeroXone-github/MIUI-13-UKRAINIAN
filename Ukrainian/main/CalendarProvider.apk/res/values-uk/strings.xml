@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources> 
+    <string name="calendar_default_name">За замовчуванням</string> 
+    <string name="calendar_info">Відомості про календар</string> 
+    <string name="calendar_info_error">Помилка</string> 
+    <string name="calendar_info_events">Заходів: %1$d</string> 
+    <string name="calendar_info_events_dirty">Заходів: %1$d | Не збережено: %2$d</string> 
+    <string name="calendar_info_no_calendars">Немає календарів</string> 
+    <string name="calendar_storage">Сховище календаря</string> 
+    <string name="channel_description"/> 
+    <string name="channel_name">Нагадування календаря</string> 
+    <string name="cta_notice">Відкрийте календар і дозвольте підключення до Інтернету.</string> 
+    <string name="debug_tool_delete_button">Видалити</string> 
+    <string name="debug_tool_email_body">До повідомлення додано базу даних календаря з усіма зустрічами та особистою інформацією. Поводьтеся з нею обережно.</string> 
+    <string name="debug_tool_email_sender_picker">Виберіть програму</string> 
+    <string name="debug_tool_email_subject">Базу календаря прикріплено</string> 
+    <string name="debug_tool_message">Ви збираєтеся 1) скопіювати базу даних календаря на SD-карту/USB-накопичувач, яка доступна для читання усім програмам, і 2) надіслати її електронною поштою. Не забудьте видалити копію після того, як вона буде перенесена з пристрою або отримана електронною поштою.</string> 
+    <string name="debug_tool_start_button">Почати</string> 
+    <string name="holiday_data_no_network">Не вдалося підключитися до мережі. Перевірте підключення та повторіть спробу.</string> 
+    <string name="holiday_data_update_failed">Помилка оновлення. Перевірте підключення та повторіть спробу.</string> 
+    <string name="holiday_data_update_succeed">Оновлення завершено</string> 
+    <string name="holiday_data_updating">Оновлення…</string> 
+    <string name="holiday_update_summary">Натисніть, щоб оновити дані.</string> 
+    <string name="holiday_update_title">Доступне оновлення</string> 
+    <string name="provider_label">Календар</string> 
+    <string name="upgrade_msg">Оновлення бази календаря.</string> 
+</resources>
