@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="agenda_weeks_of_year">
+        <item>1 тиждень</item>
+        <item>2 тиждень</item>
+        <item>3 тиждень</item>
+        <item>%1$d тиждень</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="app_commute_tab_array">
+        <item>Автомобіль</item>
+        <item>Громадський транспорт</item>
+        <item>Таксі</item>
+    </string-array>
+    <string-array name="app_health_setting_text_array_duration">
+        <item>10 хвилин</item>
+        <item>20 хвилин</item>
+        <item>30 хвилин</item>
+        <item>60 хвилин</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>Дуже чисте повітря</item>
+        <item>Чисте повітря</item>
+        <item>Легке забруднення</item>
+        <item>Помірне забруднення</item>
+        <item>Серйозне забруднення</item>
+        <item>Екстремальне забруднення</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s забруднення</item>
+        <item>%1$s забруднення</item>
+        <item>%1$s забруднення</item>
+        <item>%1$s забруднення</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>Повітря %1$s</item>
+        <item>Повітря  %1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+        <item>Ніч</item>
+        <item>Ніч</item>
+        <item>Ранок</item>
+        <item>День</item>
+        <item>День</item>
+        <item>Вечір</item>
+        <item>Вечір</item>
+    </string-array>
+    <string-array name="commute_transit_strategy">
+        <item>Розумна рекомендація</item>
+        <item>Мінімальний час</item>
+        <item>Менше пересадок</item>
+        <item>Менше ходьби</item>
+        <item>Без метро</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>Ніч</item>
+        <item>Рано-вранці</item>
+        <item>Ранок</item>
+        <item>Опівдні</item>
+        <item>День</item>
+        <item>Кінець дня</item>
+        <item>Вечір</item>
+    </string-array>
+    <string-array name="detail_font_size">
+        <item>Маленький</item>
+        <item>Нормальний</item>
+        <item>Великий</item>
+    </string-array>
+    <string-array name="pa_covid_items_default">
+        <item>COVID-19</item>
+        <item>Код здоров'я</item>
+        <item>PCR</item>
+        <item>Райони підвищеного ризику</item>
+    </string-array>
+    <string-array name="pa_home_week_days">
+        <item>Неділя</item>
+        <item>Понеділок</item>
+        <item>Вівторок</item>
+        <item>Середа</item>
+        <item>Четвер</item>
+        <item>П'ятниця</item>
+        <item>Субота</item>
+        <item>Неділя</item>
+    </string-array>
+    <string-array name="pa_stock_color_schema_value_array">
+        <item>Червоний - вгору, зелений - вниз</item>
+        <item>Зелений - вгору, червоний - вниз</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Червоний - вгору, зелений - вниз</item>
+        <item>Зелений - вгору, червоний - вниз</item>
+    </string-array>
+</resources>
