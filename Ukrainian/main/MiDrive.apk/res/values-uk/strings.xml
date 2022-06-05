@@ -615,18 +615,6 @@
     <string name="yesterday">Вчора</string>
     <string name="web_sso_login_fail">Необхідно виконати вхід повторно</string>
     <string name="web_sso_login_message">Авторизація…</string>
-    <string name="webview_reload">Повторити</string
+    <string name="webview_reload">Повторити</string>
 
-  <string name="fmt_date_long_month">MMMM</string>
-  <string name="fmt_date_long_month_day">d MMMM</string>
-  <string name="fmt_date_long_year_month">MMMM, yyyy</string>
-  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-  <string name="fmt_date_numeric_month_day">d.M.</string>
-  <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">M-yyyy</string>
-  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-  <string name="fmt_date_short_month">MMM</string>
-  <string name="fmt_date_short_month_day">d MMM</string>
-  <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
 </resources>  
