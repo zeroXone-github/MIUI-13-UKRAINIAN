@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources> 
+    <!-- General --> 
+    <string name="app_needs_update">Оновіть програму</string> 
+    <string name="app_not_installed">Встановіть програму</string> 
+    <string name="widget_apps">Програми з віджетами</string> 
+    <string name="widget_num_limit">Не вдалося додати віджети. Видаліть віджети, щоб додати нові.</string> 
+    <string name="widget_num_warn">Додано. Велика кількість віджетів на робочому столі може сповільнити роботу пристрою.</string> 
+    <!-- App names --> 
+    <string name="app_appvault">Стрічка віджетів</string> 
+    <string name="app_calculator">Калькулятор</string> 
+    <string name="app_calendar">Календар</string> 
+    <string name="app_clock">Годинник</string> 
+    <string name="app_gallery">Галерея</string> 
+    <string name="app_google">Google</string> 
+    <string name="app_health">Здоров'я</string> 
+    <string name="app_midrop">ShareMe</string> 
+    <string name="app_mihome">Mi Home</string> 
+    <string name="app_notes">Нотатки</string> 
+    <string name="app_recorder">Диктофон</string> 
+    <string name="app_scanner">Сканер</string> 
+    <string name="app_security">Безпека</string> 
+    <string name="app_settings">Налаштування</string> 
+    <string name="app_weather">Погода</string> 
+    <string name="app_whatsapp">WhatsApp</string> 
+    <!-- Shortcut groups --> 
+    <string name="shortcuts_external">Зовнішні ярлики</string> 
+    <string name="shortcuts_system">Системні ярлики</string> 
+    <!-- Shortcut names --> 
+    <string name="auto_optimize">Оптимізація</string> 
+    <string name="battery_history">Батарея</string> 
+    <string name="calculator_convert">Конвертер</string> 
+    <string name="calculator_scientific">Науковий</string> 
+    <string name="calendar_new">Додати захід</string> 
+    <string name="cleaner_deep">Глибоке очищення</string> 
+    <string name="cleaner_garbage">Сміття</string> 
+    <string name="cleaner_memory">Очищення пам'яті</string> 
+    <string name="clock_alarm">Додати будильник</string> 
+    <string name="google_assistant">Помічник</string> 
+    <string name="midrop_send">Надіслати</string> 
+    <string name="notes_new">Додати замітку</string> 
+    <string name="recorder_new">Новий запис</string> 
+    <string name="scanner_document">Документ</string> 
+    <string name="scanner_qrcode">QR-код</string> 
+    <string name="whatsapp_photos">Фото</string> 
+    <!-- Widgets --> 
+    <string name="widget_appvault_shortcuts">Ярлики</string> 
+    <string name="widget_appvault_shortcuts_desc">Швидкий запуск часто використовуваних програм та функцій</string> 
+    <string name="widget_appvault_smart_shortcuts">Рекомендації щодо додатків</string> 
+    <string name="widget_appvault_smart_shortcuts_desc">Швидкий запуск часто використовуваних програм та функцій</string> 
+    <string name="widget_calendar_agenda">Майбутні заходи</string> 
+    <string name="widget_calendar_agenda_desc">Інформація про майбутні заходи</string> 
+    <string name="widget_calendar_agenda_special">Особливі події</string> 
+    <string name="widget_calendar_agenda_special_desc">Дні народження, річниці та інше.</string> 
+    <string name="widget_calendar_countdown">Таймер</string> 
+    <string name="widget_calendar_countdown_desc">Перегляд таймерів</string> 
+    <string name="widget_calendar_date">Дата</string> 
+    <string name="widget_calendar_date_desc">Інформація про сьогоднішню дату</string> 
+    <string name="widget_clock_dual">Подвійний годинник</string> 
+    <string name="widget_clock_dual_desc">Час поточного та вибраного розташування</string> 
+    <string name="widget_clock_local">Поточний час</string> 
+    <string name="widget_clock_local_desc">Час поточного розташування</string> 
+    <string name="widget_clock_simple">Час та дата</string> 
+    <string name="widget_clock_simple_desc">Час та дата поточного розташування</string> 
+    <string name="widget_clock_weather">Погода</string> 
+    <string name="widget_clock_weather_desc">Час, дата та погода для поточного розташування</string> 
+    <string name="widget_clock_world">Світовий годинник</string> 
+    <string name="widget_clock_world_desc">Час в інших містах</string> 
+    <string name="widget_gallery_custom">Вибрані фото</string> 
+    <string name="widget_gallery_custom_desc">Додайте віджет і натисніть на нього для вибору фотографій</string> 
+    <string name="widget_gallery_recommend">Моменти</string> 
+    <string name="widget_gallery_recommend_desc">Згадайте найяскравіші моменти</string> 
+    <string name="widget_health_steps">Кроки</string> 
+    <string name="widget_health_steps_desc">Перегляд кількості кроків та прогресу у досягненні мети</string> 
+    <string name="widget_notes_tasks">Завдання</string> 
+    <string name="widget_notes_tasks_desc">Перегляд та відкриття завдань</string> 
+    <string name="widget_notes_view">Нотатки</string> 
+    <string name="widget_notes_view_desc">Перегляд та відкриття нотаток</string> 
+    <string name="widget_security_app_behavior">Конфіденційність</string> 
+    <string name="widget_security_app_behavior_desc">Статистика дій додатків</string> 
+    <string name="widget_security_app_predict">Рекомендації щодо додатків</string> 
+    <string name="widget_security_app_predict_desc">Швидкий запуск програм за рекомендаціями AI</string> 
+    <string name="widget_security_battery">Батарея</string> 
+    <string name="widget_security_battery_desc">Перегляд стану батареї</string> 
+    <string name="widget_security_cleaner">Очищення</string> 
+    <string name="widget_security_cleaner_desc">Оптимізація та підвищення продуктивності</string> 
+    <string name="widget_security_cleaner_garbage">Сміття</string> 
+    <string name="widget_security_cleaner_garbage_desc">Очищення сміття на пристрої</string> 
+    <string name="widget_security_cleaner_memory">Прискорення</string> 
+    <string name="widget_security_cleaner_memory_desc">Очищення пам'яті для прискорення роботи</string> 
+    <string name="widget_security_optimize">Безпека</string> 
+    <string name="widget_security_optimize_desc">Безпека та оптимізація пристрою</string> 
+    <string name="widget_settings_usage_stats">Час екрану</string> 
+    <string name="widget_settings_usage_stats_desc">Статистика використання програм</string> 
+    <string name="widget_smarthome_control">Ярлики пристроїв</string> 
+    <string name="widget_smarthome_control_desc">Управління пристроями Розумного дому</string> 
+    <string name="widget_weather_forecast">Прогноз</string> 
+    <string name="widget_weather_forecast_desc">Прогноз погоди</string> 
+    <string name="widget_weather_forecast_detail">Прогноз</string> 
+    <string name="widget_weather_forecast_detail_desc">Детальний прогноз погоди</string> 
+    <string name="widget_weather_realtime">Погода</string> 
+    <string name="widget_weather_realtime_desc">Поточна інформація про погоду</string> 
+    <string name="widget_weather_today">Погода</string> 
+    <string name="widget_weather_today_desc">Детальна інформація про погоду</string> 
+</resources> 
+
