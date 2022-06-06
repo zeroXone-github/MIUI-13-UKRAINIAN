@@ -12,7 +12,7 @@
     <string name="aqi_dangerous">\'ІКВ\' +#weather_aqilevel</string> 
     <string name="aqi_hazardous">\'ІКВ\' +#weather_aqilevel</string> 
     <string name="aqi_break">\'ІКВ\' +#weather_aqilevel</string> 
-    <string name="weather_type_null">'Данних немає'</string> 
+    <string name="weather_type_null">'Даних немає'</string> 
     <string name="weather_type_0">Ясно</string> 
     <string name="weather_type_1">Хмарно</string> 
     <string name="weather_type_2">Хмарно</string> 
