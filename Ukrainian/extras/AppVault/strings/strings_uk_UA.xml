@@ -102,5 +102,4 @@
     <string name="widget_weather_realtime_desc">Поточна інформація про погоду</string> 
     <string name="widget_weather_today">Погода</string> 
     <string name="widget_weather_today_desc">Детальна інформація про погоду</string> 
-</resources> 
-
+</resources>
