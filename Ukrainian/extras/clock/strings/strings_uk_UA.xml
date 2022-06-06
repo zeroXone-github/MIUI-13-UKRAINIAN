@@ -31,5 +31,5 @@
     <string name="weather_type_23">Пил</string> 
     <string name="weather_type_24">Зміг</string> 
     <string name="weather_type_25">Ізморозь</string> 
-    <string name="weather_type_null">'Данних немає'</string> 
+    <string name="weather_type_null">'Даних немає'</string> 
 </resources>
