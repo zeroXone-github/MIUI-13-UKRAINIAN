@@ -10,5 +10,4 @@
     <string name="label_reboot">Перезавантаження</string> 
     <string name="label_shutdown">Вимкнення</string> 
     <string name="label_silent_mode">Без звуку</string> 
-</resources> 
-
+</resources>
