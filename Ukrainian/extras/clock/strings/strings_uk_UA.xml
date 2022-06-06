@@ -30,6 +30,6 @@
     <string name="weather_type_22">Град</string> 
     <string name="weather_type_23">Пил</string> 
     <string name="weather_type_24">Зміг</string> 
-    <string name="weather_type_25">Ізморозь</string> 
+    <string name="weather_type_25">Заморозок</string> 
     <string name="weather_type_null">'Даних немає'</string> 
 </resources>
