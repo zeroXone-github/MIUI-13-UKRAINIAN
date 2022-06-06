@@ -75,7 +75,7 @@
     <string name="early_morning">Ранок</string> 
     <string name="enter_garbage_clean">Очищення сховища</string> 
     <string name="eras_ad">н. е.</string> 
-    <string name="eras_bc">до зв. е.</string> 
+    <string name="eras_bc">до н. е.</string> 
     <string name="evening">Пообіді</string> 
     <string name="expand_button_title">Додатково</string> 
     <string name="fmt_date_long_month_day">d MMMM</string> 
