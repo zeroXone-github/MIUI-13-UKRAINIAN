@@ -152,7 +152,7 @@
     <string name="document_ocr_result_copy">Копіювати текст</string>
     <string name="document_ocr_result_save">Зберегти до Нотаток</string>
     <string name="document_ocr_tip_msg">Читання…</string>
-    <string name="document_read">Прочитано</string>
+    <string name="document_read">Прочитати</string>
     <string name="document_recognize_fail_tip">"Не вдалося прочитати документ"</string>
     <string name="document_recognize_null_tip">"Не вдалося розпізнати документ"</string>
     <string name="document_recognize_text">Впізнавати текст</string>
@@ -483,7 +483,7 @@
     <string name="setting_title">Налаштування</string>
     <string name="setting_use_last_choose">Запам\'ятати вибір</string>
     <string name="setting_wechat">WeChat</string>
-    <string name="share">Поділитись</string>
+    <string name="share">Поділитися</string>
     <string name="share_as_PDF">Файл pdf</string>
     <string name="share_as_picture">Зображення</string>
     <string name="share_format">Поділитися з друзями</string>
@@ -646,7 +646,7 @@
     <string name="v7_preference_off">ВИМКНЕНО</string>
     <string name="v7_preference_on">УВІМКНЕНО</string>
     <string name="vender_info_translation_kingsoft">Підтримка: Kingsoft</string>
-    <string name="visit">Візит</string>
+    <string name="visit">Переглянути</string>
     <string name="waybill_num">"Замовлення: "</string>
     <string name="web">Сайт:</string>
     <string name="web_url">Адреса</string>
