@@ -70,6 +70,10 @@
     <string name="call_button_tools_text">Функції</string>
     <string name="call_contacts_deny_permission_msg">Не вдається показати інформацію про контакти, так як ви відхилили дозвіл на читання контактів.</string>
     <string name="call_description_recording">Запис…</string>
+    <string name="dsda_answer_call_prompt">Прийняття цього дзвінка завершить поточний дзвінок</string> 
+    <string name="dsda_not_incall_sim_mo_fail_desc">SIM %1$d недоступна для дзвінків. Поточне мережеве оточення не підтримує роботу з двома SIM-картками.</string> 
+    <string name="dsda_swap_call_prompt">Якщо продовжите, ви будете переключені на голосовий дзвінок</string> 
+    <string name="select_other_sim_card_dial">Використовувати SIM %1$d</string> 
     <string name="call_not_support_high_frequency_click">Не натискайте цю кнопку так часто</string>
     <string name="call_progress_info_call_forwarding">Цей виклик було перенаправлено</string>
     <string name="call_progress_info_call_rejected">Інша людина зараз зайнята. Будь ласка, зателефонуйте пізніше.</string>
