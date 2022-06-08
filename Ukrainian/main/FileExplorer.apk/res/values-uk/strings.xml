@@ -252,7 +252,7 @@
     <string name="gbk_summary">Стандартне кодування у спрощеній китайській версії Windows</string>
     <string name="gbk_title">GBK</string>
     <string name="gigabyteShort">ГБ</string>
-    <string name="go_ahead">Відкриті</string>
+    <string name="go_ahead">Відкрити</string>
     <string name="grid_mode">У вигляді сітки</string>
     <string name="group_title">%2$s (%1$s)</string>
     <string name="group_title_extra_backup">Бекап</string>
@@ -301,7 +301,7 @@
     <string name="material_slider_range_end">У діапазоні до кінця,</string>
     <string name="material_slider_range_start">Стрільбище початок,</string>
     <string name="menu_item_cleanup">Очищення</string>
-    <string name="menu_item_ftp">Підключіться до комп\'ютера</string>
+    <string name="menu_item_ftp">Підключитися до комп\'ютера</string>
     <string name="menu_item_midrop">Передача файлів</string>
     <string name="menu_item_router">Роутер</string>
     <string name="menu_item_search">Пошук</string>
@@ -484,7 +484,7 @@
     <string name="operation_move">Перемістити</string>
     <string name="operation_moving">Переміщення…</string>
     <string name="operation_new_folder">Створити папку</string>
-    <string name="operation_open">Відкриті</string>
+    <string name="operation_open">Відкрити</string>
     <string name="operation_open_mode">Відкрити у</string>
     <string name="operation_other_apps">Відкрити в іншій програмі</string>
     <string name="operation_paste">Вставити</string>
