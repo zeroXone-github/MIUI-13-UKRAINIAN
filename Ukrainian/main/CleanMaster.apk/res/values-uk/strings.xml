@@ -222,7 +222,7 @@
     <string name="common_signin_button_text_long">Увійти через обліковий запис Google</string> 
     <string name="gps_prompt_context">Завантажити через мобільний інтернет</string> 
     <string name="gps_prompt_title">Поради</string> 
-    <string name="offline_notification_text">Натисніть , щоб переглянути рекламу, збережену в автономному режимі</string> 
+    <string name="offline_notification_text">Натисніть, щоб переглянути рекламу, збережену в автономному режимі</string> 
     <string name="offline_notification_title">Перегляд реклами</string> 
     <string name="offline_opt_in_confirm">ОК</string> 
     <string name="offline_opt_in_confirmation">Ви отримаєте сповіщення з посиланням, коли мережа знову буде доступна</string> 
