@@ -240,7 +240,7 @@
     <string name="date_calculate_result">Результат</string> 
     <string name="date_calculate_tab">Дата</string> 
     <string name="date_calculate_today">0 днів</string> 
-    <string name="date_calculate_when">початок</string> 
+    <string name="date_calculate_when">Початок</string> 
     <string name="date_format_y_m">MMM yyyy</string> 
     <string name="date_interval_description">Обчислення інтервалу між двома датами</string> 
     <string name="date_interval_end">за</string> 
@@ -294,7 +294,7 @@
     <string name="edit_event_custom_reminder_time_dup">Нагадування користувача: %1$s</string> 
     <string name="edit_event_custom_reminder_title">Нагадування користувача</string> 
     <string name="edit_event_dislike_title">Чому ви скасовуєте?</string> 
-    <string name="edit_event_from_label">початок</string> 
+    <string name="edit_event_from_label">Початок</string> 
     <string name="edit_event_input_year">Вкажіть рік</string> 
     <string name="edit_event_label">Деталі</string> 
     <string name="edit_event_no_reminder_value">Не нагадувати</string> 
@@ -504,7 +504,7 @@
     <string name="icon_remove_description_title">Видалити "Календар" з робочого столу?</string> 
     <string name="ics_file_not_found">Немає файлів календаря для імпорту</string> 
     <string name="ics_import_from_local_file">Імпорт файлів календаря</string> 
-    <string name="ics_import_from_url">Передплата за посиланням</string> 
+    <string name="ics_import_from_url">Імпорт за посиланням</string> 
     <string name="image_processing">Зображення ще не готове</string> 
     <string name="import_action">Імпорт</string> 
     <string name="import_birthday">Імпорт днів народження</string> 
@@ -806,7 +806,7 @@
     <string name="mtrl_picker_save">Зберегти</string> 
     <string name="mtrl_picker_text_input_date_hint">Дата</string> 
     <string name="mtrl_picker_text_input_date_range_end_hint">Закінчення</string> 
-    <string name="mtrl_picker_text_input_date_range_start_hint">початок</string> 
+    <string name="mtrl_picker_text_input_date_range_start_hint">Початок</string> 
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Календар</string> 
     <string name="mtrl_picker_toggle_to_day_selection">Вибрати день</string> 
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручне введення</string> 
@@ -1445,7 +1445,7 @@
     <string name="wednesday_short">Ср</string> 
     <string name="wednesday_shortest">Ср</string> 
     <string name="week_number">Номер тижня</string> 
-    <string name="weekly">Щотижня (кожний %s)</string> 
+    <string name="weekly">Щотижня (кожна %s)</string> 
     <string name="when_label">Коли</string> 
     <string name="widget_events">Наступний захід</string> 
     <string name="widget_get_weather_info">Отримати інформацію про погоду</string> 
