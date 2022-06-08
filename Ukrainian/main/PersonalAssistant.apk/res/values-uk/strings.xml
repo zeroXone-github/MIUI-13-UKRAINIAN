@@ -72,7 +72,8 @@
     <string name="agenda_minutes">хвилин</string> 
     <string name="agenda_need_install_alipay">Перед використанням цієї функції встановіть Alipay.</string> 
     <string name="agenda_no_title">(Без імені)</string> 
-    <string name="agenda_open">Увімкніть нагадування порядку денного</string> 
+    <string name="agenda_open">Увімкніть нагадування порядку денного</string>
+    <string name="pa_picker_detail_vp2_indicator">Вибрані сторінки: %1$d з %2$d</string>
     <string name="agenda_pay_is_not_available">Alipay недоступний</string> 
     <string name="agenda_payment_not_available">Платіжний сервіс недоступний</string> 
     <string name="agenda_repay_date">Термін платежу: %1$s</string> 
