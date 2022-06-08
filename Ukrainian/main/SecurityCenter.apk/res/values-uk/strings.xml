@@ -164,6 +164,16 @@
     <string name="antispam_mms_text">Встановити Повідомлення як програму за замовчуванням для відправлення SMS, щоб мати можливість переглядати заблоковані повідомлення</string>
     <string name="antispam_mms_text_setting">Встановити Повідомлення як програму за замовчуванням для відправлення SMS, щоб мати можливість використовувати чорний список</string>
     <string name="antispam_mode_details">Деталі чорного списку</string>
+    <string name="antivirus_antidefraud_risk_desc">Ця програма класифікується Національним центром боротьби з шахрайством, як додаток для фінансового шахрайства. Видаліть його, щоб уникнути можливих загроз безпеці.</string>
+    <string name="antivirus_antidefraud_risk_type">Фінансове шахрайство</string>
+    <string name="antivirus_antidefraud_risk_type_label">Фінансове шахрайство та загроза безпеці</string>
+    <string name="antivirus_detect_apps_dialog_cancel">Залишити</string>
+    <string name="antivirus_detect_apps_dialog_content">%s Класифікується Національним центром боротьби з шахрайством, як додаток для фінансового шахрайства і становить загрозу безпеці.</string>
+    <string name="antivirus_detect_apps_dialog_uninstall">Видалити</string>
+    <string name="antivirus_detect_apps_noti_message">Програма представляє загрозу безпеці.</string>
+    <string name="antivirus_detect_apps_noti_title">Декілька програм, включаючи %s, Можуть становити загрозу безпеці.</string>
+    <string name="antivirus_detect_single_app_noti_title">%s Може становити загрозу безпеці?</string>
+    <string name="antivirus_not_remind_for_app">Не попереджати про цю програму.</string>
     <string name="antispam_notificaiton_type_show_all">Всі номери</string>
     <string name="antispam_notificaiton_type_show_except_blacklist">Окрім номерів із чорного списку</string>
     <string name="antispam_notificaiton_type_show_none">Не показувати</string>
@@ -209,6 +219,10 @@
     <string name="antivirus_update_btn_open">Дозволити</string>
     <string name="antivirus_update_btn_update">Оновити</string>
     <string name="antivirus_website_check_status">Увімк.</string>
+    <string name="sp_unshelf_dialog_cancel_pay">Скасувати</string>
+    <string name="sp_unshelf_dialog_content">Програма %s не пройшла тести безпеки GetApps. Використання платежів у програмі може призвести до фінансових втрат. Все одно продовжити?</string>
+    <string name="sp_unshelf_dialog_continue_pay">Продовжити</string>
+    <string name="sp_unshelf_dialog_title">Увага</string>
     <string name="antivirus_website_check_title">Безпечний перегляд</string>
     <string name="apn_exception_modify_summary">Точка доступу за замовчуванням оператора не використовується або була змінена</string>
     <string name="apn_exception_summary">Діагностика конфігурації APN</string>
