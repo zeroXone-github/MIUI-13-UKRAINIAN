@@ -78,6 +78,7 @@
     <string name="adb_wireless_device_connected_summary">Зараз підключений</string>
     <string name="adb_wireless_device_details_title">Інформація про пристрій</string>
     <string name="adb_wireless_error">Помилка</string>
+
     <string name="adb_wireless_ip_addr_preference_title">IP-адреса &amp; Порт</string>
     <string name="adb_wireless_list_empty_off">Щоб переглядати та використовувати доступні пристрої, увімкніть бездротове налагодження</string>
     <string name="adb_wireless_no_network_msg">Будь ласка, підключіться до мережі Wi‑Fi</string>
@@ -93,7 +94,9 @@
     <string name="alarm_template">о %1$s</string>
     <string name="alarm_template_far">у %1$s</string>
     <string name="alarms_and_reminders_footer_title">"Дозвольте цій програмі створювати будильники та події, заплановані на конкретний час. Це дозволить програмі працювати у фоновому режимі, через що може збільшитися споживання енергії.
-
+    <string name="headset_battery_low">Батарея розряджена, зарядіть її</string>
+    <string name="headset_connect_timeout">Тайм-аут з'єднання, повторіть спробу.</string>
+    <string name="headset_not_in_case">Навушники не в кейсі, повторіть спробу.</string>
 Якщо цей дозвіл відключено, вже існуючі будильники та заплановані події, які були створені цією програмою, не будуть працювати."</string>
     <string name="alarms_and_reminders_label">Будильники та нагадування</string>
     <string name="alarms_and_reminders_switch_title">Дозволити встановлення будильників та нагадувань</string>
