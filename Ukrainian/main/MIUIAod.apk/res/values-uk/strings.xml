@@ -360,4 +360,5 @@ dd.MM."</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="yesterday">Вчора</string>
+    <string name="disable_aod_in_dark_room">Вимкнути, коли ваш пристрій знаходиться у темряві</string>
 </resources>
