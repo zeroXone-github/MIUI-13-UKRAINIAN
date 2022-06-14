@@ -308,4 +308,6 @@
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="yesterday">Вчора</string>
+    <string name="expand_top_notification">Розгорнювати верхнє сповіщення</string>
+    <string name="show_weather">Показувати інформацію про погоду</string>
 </resources>
