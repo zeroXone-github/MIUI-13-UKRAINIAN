@@ -301,7 +301,7 @@
     <string name="not_set">Не налаштовано</string>
     <string name="notification_control_center">Сповіщення та Центр керування</string>
     <string name="online">Онлайн</string>
-    <string name="pm">ПО</string>
+    <string name="pm">PM</string>
     <string name="power_off">Вимкнення</string>
     <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
     <string name="qs_control_big_tile_state_closed">Вимк.</string>
