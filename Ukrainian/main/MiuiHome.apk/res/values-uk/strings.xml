@@ -972,4 +972,10 @@
     <string name="work_profile_toggle_label">Робочий профіль</string>
     <string name="yesterday">Вчора</string>
     <string name="animation_rate_title">Швидкість анімації</string>
+    <string name="assistant_edge_gesture_title">Проведіть пальцем з кута вгору, щоб відкрити Google Асистент</string>
+    <string name="assistant_edge_gesture_summary">Проведіть пальцем угору від нижнього лівого або нижнього правого кута, щоб відкрити Google Асистент</string>
+    <string name="launcher_search_bar_provider_title">Постачальник панелі пошуку</string>
+    <string name="double_tap_to_lock_title">Торкніться двічі, щоб заблокувати екран</string>
+    <string name="hide_apps_title">Приховування додатків</string>
+    <string name="launcher_slide_up_search_provider_title">Проведіть пальцем угору для постачальника пошуку</string>
 </resources>
