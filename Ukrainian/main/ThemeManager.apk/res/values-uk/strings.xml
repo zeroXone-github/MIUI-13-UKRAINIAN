@@ -1263,6 +1263,46 @@ dd/M"</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Оновити</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступне оновлення</string>
     <string name="yesterday">Вчора</string>
+    <string name="privacy_pad_fold_entry">Конфіденційність</string>
+    <string name="privacy_revoke_agree_content">Відкликати згоду</string>
+    <string name="privacy_pad_fold_revoke_agree_introduce">"Якщо ви продовжите, ви відкликаєте свою згоду на Політику конфіденційності шпалер та персоналізації. Уже зібрана та збережена особиста інформація буде видалена протягом певного періоду відповідно до чинних законів і правил. Оскільки шпалери та персоналізація надають свої послуги на основі збору необхідної особистої інформації, ваше відкликання згоди вважатиметься відмовою від надання шпалер та послуг персоналізації."</string>
+    <string name="privacy_revoke_agree_data_warning">Наведені нижче дані будуть назавжди видалені або анонімізовані після відкликання згоди (крім випадків, коли інше не передбачено законами та нормативними актами або іншим чином вимагається контролюючими органами):</string>
+    <string name="privacy_logoff_theme_content_1">1. Усі замовлення (включаючи оплачені), зроблені на пристроях Xiaomi. Ви більше не зможете використовувати придбані предмети.</string>
+    <string name="privacy_logoff_theme_content_2">2. Вся інформація про ваші вподобання, коментарі, оцінки та підписників, створена на пристроях Xiaomi.</string>
+    <string name="privacy_phone_logoff_theme_content_3">3. Усі теми, шпалери, динамічні шпалери, шрифти, значки та мелодії, завантажені на цей пристрій.</string>
+    <string name="privacy_phone_logoff_theme_content_4">4. Усі записи історії пошуку, параметри дозволів, налаштування та кешовані елементи, згенеровані на цьому пристрої.</string>
+    <string name="privacy_revoke_agree_content_5">5. Усі елементи персоналізації, які зараз використовуються на цьому пристрої. Налаштування персоналізації за замовчуванням буде відновлено.</string>
+    <string name="privacy_i_know_btn">Продовжити</string>
+    <string name="privacy_phone_revoke_agree_detail_title">Прочитайте та погодьтеся з \"Заява про відкликання згоди на політику конфіденційності тем\" перед тим, як відкликати свою згоду.</string>
+    <string name="privacy_phone_revoke_agree_detail_prompt">Заява про відкликання згоди на політику конфіденційності тем</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Перш ніж продовжити, переконайтеся, що ви маєте право відкликати згоду.
+2. Відкликання вашої згоди на Політику конфіденційності шпалер та персоналізації не вплине на звичайне використання інших продуктів Xiaomi.
+3. Відкликання згоди є незворотною дією. Створіть резервну копію всіх важливих елементів, перш ніж продовжити, оскільки вони можуть бути видалені назавжди. Пам’ятайте, що після відкликання згоди ви не зможете переглянути своє рішення. Наведені нижче дані будуть назавжди видалені або анонімізовані після відкликання згоди (крім випадків, коли інше не передбачено законами та нормативними актами або іншим чином вимагається контролюючими органами):"</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"Усі замовлення (включаючи оплачені), зроблені на пристроях Xiaomi, на яких ви використовували свій Mi Акаунт. Ви більше не зможете використовувати придбані предмети.
+Вся інформація про вподобайки, коментарі, оцінки та підписників, створена на пристроях Xiaomi, на яких ви використовували свій обліковий запис Mi.
+Усі шпалери, шрифти та мелодії дзвінка, завантажені на цей пристрій.
+Усі параметри дозволів, налаштування та кешовані елементи, створені на цьому пристрої.
+Усі елементи персоналізації, які зараз використовуються на цьому пристрої. Налаштування персоналізації за замовчуванням буде відновлено."</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Після того, як ви відкликаєте свою згоду на політику конфіденційності шпалер та персоналізації, ми припинимо збирати вашу особисту інформацію. Уже зібрана та збережена особиста інформація буде видалена протягом певного періоду відповідно до чинних законів та правил. 
+5. Відкликання згоди не означає звільнення або пом’якшення відповідальності щодо відповідальності, пов’язаними з діями, здійсненими до відкликання згоди."</string>
+    <string name="privacy_phone_read_theme_privacy_policy"><Data>"Я прочитав(-ла) і погодився(-лась) \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Заява про відкликання згоди на політику конфіденційності тем&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_give_up_logoff">Назад</string>
+    <string name="privacy_give_up_revoke_btn">Назад</string>
+    <string name="privacy_confirm_revoke_and_exit_btn">Відкликати згоду</string>
+    <string name="server_internal_error">Сталася помилка сервера. Зачекайте хвилину або дві та спробуйте ще раз.</string>
+    <string name="error_icon_content_description">Помилка</string>
+    <string name="privacy_action_failed_title">Помилка</string>
+    <string name="privacy_permission_management_description">Відомості про дозволи</string>
+    <string name="privacy_phone_read_and_write_storage">Доступ до сховища</string>
+    <string name="system_cta_runtime_perm_desc_storage_above_eleven">Щоб змінювати налаштування персоналізацій</string>
+    <string name="allow">Надано</string>
+    <string name="privacy_permission_related_content">Дозволи</string>
+    <string name="basic_mode">Оффлайн режим</string>
+    <string name="local_mode">Оффлайн режим</string>
+    <string name="local_mode_desc">"Офлайн-режим використовує лише локальний вміст і не використовує онлайн-сервіси"</string>
+    <string name="privacy_phone_logoff_service_content">Скасувати послуги тем</string>
+    <string name="privacy_confirm_logoff_and_exit">Скасувати послуги</string>
+    
 
 
   <string name="fmt_date_long_month">MMMM</string>
