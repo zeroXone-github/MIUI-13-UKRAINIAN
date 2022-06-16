@@ -616,4 +616,11 @@ http://zhushou.xiaomi.com"</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="weekly_build">щотижнева збірка</string>
     <string name="yesterday">Вчора</string>
+    <string name="menu_title_show_notifications">Показувати сповіщення</string>
+    <string name="version">На даний час встановлено:</string>
+    <string name="stable">Стабільна</string>
+    <string name="weekly">Щотижнева</string>
+    <string name="check_new_version">Перевірити наявність оновлень</string>
+    <string name="btn_share">Поділитися</string>
+    <string name="share_title">Поділитися за допомогою</string>
 </resources>
