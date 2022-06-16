@@ -1207,4 +1207,6 @@
     <string name="yesterday">Вчора</string>
     <string name="zero_items_selected">Виберіть контакти</string>
     <string name="zero_letter">+</string>
+    <string name="confirm_call_log_dial_summary">Щоб запобігти випадковим викликам, запитувати підтвердження перед набором з журналів викликів.</string>
+    <string name="confirm_call_log_dial_title">Підтвердьте набір з журналів викликів</string>
 </resources>
