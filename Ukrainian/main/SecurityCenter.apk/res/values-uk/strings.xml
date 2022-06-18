@@ -4826,4 +4826,27 @@ Rolled over extra data"</string>
     <string name="title_condition_hotspot">Портативна точка доступу</string>
     <string name="task_summary_open_hotspot">Увімкнути портативну точку доступу</string>
     <string name="task_summary_close_hotspot">Вимкнути портативну точку доступу</string>
+    <string name="new_condition_event">Подія</string>
+    <string name="title_condition_start_activity">Відкрити додаток</string>
+    <string name="title_condition_leave_activity">Закрити додаток</string>
+    <string name="title_condition_bluetooth_device">Підключитися до пристрою Bluetooth</string>
+    <string name="auto_task_open_bluetooth">Увімкнути Bluetooth</string>
+    <string name="title_condition_bluetooth_disconnect_device">Відключити з пристрою Bluetooth</string>
+    <string name="title_condition_connect_wlan">Підключитися до Wi-Fi</string>
+    <string name="auto_task_offen_use_wlan">Мої мережі</string>
+    <string name="auto_task_nearby_wlan">Доступні мережі</string>
+    <string name="task_summary_close_wlan">Вимкнути Wi-Fi</string>
+    <string name="title_condition_absorbed">Режим фокусування</string>
+    <string name="summary_condition_open_absorbed_mode">Після увімкнення режиму фокусування</string>
+    <string name="summary_condition_close_absorbed_mode">Після вимкнення режиму фокусування</string>
+    <string name="title_condition_mute">Без звуку/Не турбувати</string>
+    <string name="task_summary_open_mute_mode">Увімкнути режим без звуку</string>
+    <string name="task_summary_open_zen_mode">Увімкнути режим не турбувати</string>
+    <string name="title_condition_charge">Зарядка</string>
+    <string name="task_title_charge">Зарядити</string>
+    <string name="summary_condition_in_charge">Коли заряджається</string>
+    <string name="summary_condition_no_in_charge">Коли не заряджається</string>
+    <string name="new_condition_communication">Взаємодія</string>
+    <string name="title_condition_incall">Зателефонувати</string>
+    <string name="summary_condition_missing_call">Пропущений виклик</string>
 </resources>
