@@ -340,15 +340,15 @@
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string> 
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string> 
     <string name="fmt_time_12hour_minute_second_pm">год:мм:сс а</string> 
-    <string name="fmt_time_12hour_pm">ха</string> 
+    <string name="fmt_time_12hour_pm">PM</string> 
     <string name="fmt_time_24hour">"HH 'o''clock'"</string> 
-    <string name="fmt_time_24hour_minute">HH: мм</string> 
-    <string name="fmt_time_24hour_minute_second">ГГ:мм:сс</string> 
+    <string name="fmt_time_24hour_minute">HH: mm</string> 
+    <string name="fmt_time_24hour_minute_second">HH:mm:ss</string> 
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string> 
     <string name="fmt_time_millis">"СМС'"</string> 
-    <string name="fmt_time_minute">"м'мін"</string> 
-    <string name="fmt_time_minute_second">"м'мін" з"</string> 
-    <string name="fmt_time_minute_second_millis">"m'min' s.S's"</string> 
+    <string name="fmt_time_minute">"м'хв"</string> 
+    <string name="fmt_time_minute_second">"м'хв" з"</string> 
+    <string name="fmt_time_minute_second_millis">"m'хв' s.S's"</string> 
     <string name="fmt_time_second">"s's"</string> 
     <string name="fmt_time_second_millis">"s.S's"</string> 
     <string name="fmt_time_timezone">Т з</string> 
@@ -711,5 +711,4 @@
     <string name="wednesday_shortest">Ср</string> 
     <string name="xiaomi_account_type">com.xiaomi</string> 
     <string name="yesterday">Вчора</string> 
-</resources> 
-
+</resources>
