@@ -1917,4 +1917,8 @@
         <item>Анімація 5x</item>
         <item>Анімація 10x</item>
     </string-array>
+    <string-array name="default_vol_stream_entries">
+        <item>Рінгтон</item>
+        <item>Медія</item>
+    </string-array>
 </resources>
