@@ -3312,7 +3312,7 @@
     <string name="privacy_apps_tutorial_dlg_message_1">Торкніться двома пальцями робочого столу, а потім розведіть їх, щоб переглянути приховані програми.</string>
     <string name="privacy_apps_tutorial_dlg_message_2">Примітка: приховання програми означає лише приховання її іконки на робочому столі.</string>
     <string name="privacy_apps_tutorial_dlg_title">Як знайти приховані програми</string>
-    <string name="privacy_apps_tutorial_prompt_pageone">Я функція дозволяє приховувати іконки програм, щоб вони не відображалися на робочому столі.</string>
+    <string name="privacy_apps_tutorial_prompt_pageone">Ця функція дозволяє приховувати іконки програм, щоб вони не відображалися на робочому столі.</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">"Після введення пароля з'явиться папка з прихованими програмами."</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">"Розведіть два пальці на екрані. З'явиться повідомлення з проханням ввести пароль для Захисту програм."</string>
     <string name="privacy_danger_permission_status_summary">Керуйте програмами, які запитують конфіденційні дозволи</string>
@@ -4758,4 +4758,28 @@ Rolled over extra data"</string>
     <string name="xunyou_server_expired">Сесія закінчилася.</string>
     <string name="yesterday">Вчора</string>
     <string name="yuan">CNY</string>
+    <string name="fully_informed_privacy">Обізнаність про конфіденційність</string>
+    <string name="image_protect_total_activity_label">Отримувати сповіщення про видалені фотографії</string>
+    <string name="pp_app_del_img_intercept_detail">Отримуйте сповіщення, коли програми видаляють елементи з Галереї без вашого дозволу</string>
+    <string name="pp_clipboard">Буфер обміну</string>
+    <string name="pp_comprehensive_privacy_management">Повний захист конфіденційності</string>
+    <string name="title_chain_start">Обмежити початок ланцюга</string>
+    <string name="pp_anti_track_summary">"Не дозволяйте відстежувати свою активність"</string>
+    <string name="pp_antitrack_detail">Додатки можуть відстежувати вашу активність за допомогою особистих ідентифікаторів, відомостей про місцезнаходження та інших типів особистої інформації, наданої їм. Відстеження вашої активності в різних програмах і на веб-сайтах дозволяє персоналізувати рекламу та рекомендувати вам відповідний вміст.</string>
+    <string name="pp_block_mac">Обмежте доступ до MAC-адреси</string>
+    <string name="pp_block_mac_summary">Доступ до вашої MAC-адреси за замовчуванням обмежено для всіх програм.</string>
+    <string name="pp_manage_track">Моніторні трекери</string>
+    <string name="pp_manage_track_summary">Визначайте та вимикайте різні типи трекерів, вбудованих у програми. Такі трекери можуть ділитися вашими особистими ідентифікаторами, відкриваючи та зберігаючи елементи у внутрішній пам’яті, або використовувати спільні пакети SDK для відстеження вашої активності.</string>
+    <string name="pp_operator_get_number">Потрібне схвалення для доступу до номера телефону</string>
+    <string name="pp_operator_get_number_summary">Програми запитуватимуть ваш дозвіл, коли захочуть отримати доступ до вашого номера телефону для входу.</string>
+    <string name="pp_virtual_identity_summary">Віртуальний ідентифікатор (OAID) можна надати програмам замість вашого реального ідентифікатора. Це захищає вашу конфіденційність і дозволяє контролювати, як програми відстежують вашу поведінку.</string>
+    <string name="pp_identifier_protection">Захистіть особисті ідентифікатори</string>
+    <string name="special_perm_virtual_title">Змінити віртуальний ідентифікатор</string>
+    <string name="pp_virtual_identity_manager">Віртуальний ідентифікатор</string>
+    <string name="pp_privacy_safe_box">Приватний простір</string>
+    <string name="pp_safe_box_summary">Захист конфіденційності</string>
+    <string name="pp_privacy_protection_lab_summary">Тримайте речі приватними</string>
+    <string name="pp_privacy_lab_operator_get_number">Потрібне схвалення для доступу до номера телефону</string>
+    <string name="pp_privacy_lab_operator_get_number_summary">Вимагайте від програм запитувати ваш дозвіл, коли вони хочуть отримати доступ до вашого номера телефону для входу</string>
+    <string name="privacy_permission_relate">Дозволи</string>
 </resources>
