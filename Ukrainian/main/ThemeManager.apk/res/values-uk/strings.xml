@@ -589,7 +589,7 @@ dd/M"</string>
     <string name="personalize_aod_title">AOD</string>
     <string name="personalize_call_ringtone_title">Мелодії дзвінка</string>
     <string name="personalize_charge_style_title">Заряджання</string>
-    <string name="personalize_default_font">Default font</string>
+    <string name="personalize_default_font">Стандартний шрифт</string>
     <string name="personalize_fingerprint_style_title">Відбиток пальця</string>
     <string name="personalize_icon_title">Іконки</string>
     <string name="personalize_notify_ringtone_title">Сповіщення</string>
@@ -1302,6 +1302,7 @@ dd/M"</string>
     <string name="local_mode_desc">"Офлайн-режим використовує лише локальний вміст і не використовує онлайн-сервіси"</string>
     <string name="privacy_phone_logoff_service_content">Скасувати послуги тем</string>
     <string name="privacy_confirm_logoff_and_exit">Скасувати послуги</string>
+    
     
 
 
