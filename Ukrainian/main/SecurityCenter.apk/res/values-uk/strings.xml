@@ -876,10 +876,11 @@
     <string name="battery_stats_wake_lock_label">Пробудження</string>
     <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
     <string name="battery_status_good">Нормальна робота</string>
-    <string name="battery_status_level_excellent">Відмінне</string>
-    <string name="battery_status_level_good">Добре</string>
-    <string name="battery_status_level_normal">Нормальне</string>
-    <string name="battery_status_level_poor">Погане</string>
+    <string name="battery_status_level_normal">Нормальна</string>
+    <string name="battery_status_level_excellent">Відмінна</string>
+    <string name="battery_status_level_good">Добра</string>
+    <string name="battery_status_level_normal">Нормальна</string>
+    <string name="battery_status_level_poor">Погана</string>
     <string name="battery_status_overheat">Перегрів</string>
     <string name="battery_status_unknown">Невідома помилка</string>
     <string name="battery_temperature_title">Температура</string>
@@ -4757,4 +4758,5 @@ Rolled over extra data"</string>
     <string name="xunyou_server_expired">Сесія закінчилася.</string>
     <string name="yesterday">Вчора</string>
     <string name="yuan">CNY</string>
+    
 </resources>
