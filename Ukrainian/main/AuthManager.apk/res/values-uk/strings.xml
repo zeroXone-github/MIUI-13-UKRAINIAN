@@ -358,6 +358,7 @@
     <string name="permisson_reject_notice_toast_text2">"не має дозволу до %1$s."</string>
     <string name="pm">ПО</string>
     <string name="pp_privacy_lab_operator_introduction">Увага</string>
+    <string name="precise_location_title">Точне місцезнаходження</string>
     <string name="real_location_off">Приблизне місцезнаходження увімк.</string>
     <string name="real_location_on">Приблизне місцезнаходження відкл.</string>
     <string name="saturday">Субота</string>
