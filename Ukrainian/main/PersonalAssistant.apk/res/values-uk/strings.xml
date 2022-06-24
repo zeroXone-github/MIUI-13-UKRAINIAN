@@ -10,7 +10,7 @@
     <string name="abc_capital_on">УВІМКНЕНО</string> 
     <string name="abc_menu_alt_shortcut_label">Alt+</string> 
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string> 
-    <string name="abc_menu_Видалити_shortcut_label">Видалити</string> 
+    <string name="abc_menu_delete_shortcut_label">Видалити</string> 
     <string name="abc_menu_enter_shortcut_label">enter</string> 
     <string name="abc_menu_function_shortcut_label">Function+</string> 
     <string name="abc_menu_meta_shortcut_label">Meta+</string> 
