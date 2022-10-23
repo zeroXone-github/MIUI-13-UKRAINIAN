@@ -208,8 +208,8 @@
     </string-array>
     <string-array name="rh_blood_array">
         <item>Не вказано</item>
-        <item>Отрицательный</item>
-        <item>Положительный</item>
+        <item>Негативний</item>
+        <item>Позитивний</item>
     </string-array>
     <string-array name="run_in_background_state">
         <item>Без обмежень</item>
